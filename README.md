@@ -15,10 +15,7 @@
 
   <br /><br />
 
-  <!-- BADGES DE STATUS -->
   <p align="center">
-    <img src="https://img.shields.io/badge/JARVIS_CORE-ONLINE-00F0FF?style=for-the-badge&logo=probot&logoColor=000000" alt="JARVIS AI" />
-    <img src="https://img.shields.io/badge/SYSTEM-OPERATIONAL-00FF66?style=for-the-badge&logo=cpu&logoColor=000000" alt="Status" />
   </p>
 
 </div>
