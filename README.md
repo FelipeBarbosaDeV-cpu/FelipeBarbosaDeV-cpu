@@ -7,7 +7,7 @@
 
   <!-- ANIMAÇÃO DE DIGITAÇÃO -->
   <a href="https://github.com/FelipeBarbosaDeV-cpu">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=%3C_SYSTEM_INITIALIZE_%3E;OPERATIVE%3A_FELIPE_BARBOSA_DEV;STATUS%3A_ONLINE_AND_READY" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=%3C_SYSTEM_INITIALIZE_%3E;OPERATIVE%3A_FELIPE_BARBOSA_DEV;STACK%3A_C%23_+_JS;STATUS%3A_ONLINE_AND_READY" alt="Typing Animation" />
   </a>
 
   <br /><br />
@@ -15,7 +15,7 @@
   <!-- BADGES DE STATUS COM AS SUAS LINGUAGENS -->
   <p align="center">
     <img src="https://img.shields.io/badge/JARVIS_CORE-ONLINE-00F0FF?style=for-the-badge&logo=probot&logoColor=000000" alt="JARVIS AI" />
-    <img src="https://img.shields.io/badge/LANGUAGES-PYTHON_%7C_C%23_%7C_JS_%7C_HTML_%7C_CSS-FF007F?style=for-the-badge&logo=codefactor&logoColor=ffffff" alt="Languages" />
+    <img src="https://img.shields.io/badge/LANGUAGES-C%23_%7C_JS-FF007F?style=for-the-badge&logo=codefactor&logoColor=ffffff" alt="Languages" />
     <img src="https://img.shields.io/badge/SYSTEM-OPERATIONAL-00FF66?style=for-the-badge&logo=cpu&logoColor=000000" alt="Status" />
   </p>
 
@@ -29,8 +29,6 @@ perfil_identidade:
   nome_desenvolvedor: "Felipe Barbosa"
   usuario_github: "FelipeBarbosaDeV-cpu"
   formacao: "Estudante do Curso Técnico em Tecnologia da Informação (TI)"
-  especialidade_principal: "Arquitetura de Software & Engenharia de Sistemas"
-  missao_principal: "Desenvolver sistemas de alta performance, código limpo e interfaces imersivas."
 
 ---
 #!/bin/bash
