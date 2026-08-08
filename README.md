@@ -7,7 +7,7 @@
 
   <!-- ANIMAÇÃO DE DIGITAÇÃO -->
   <a href="https://github.com/FelipeBarbosaDeV-cpu">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=%3C_SYSTEM_INITIALIZE_%3E;OPERATIVE%3A_FELIPE_BARBOSA_DEV;STACK%3A_PYTHON_+_C%23_+_JS;STATUS%3A_ONLINE_AND_READY" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=%3C_SYSTEM_INITIALIZE_%3E;OPERATIVE%3A_FELIPE_BARBOSA_DEV;STATUS%3A_ONLINE_AND_READY" alt="Typing Animation" />
   </a>
 
   <br /><br />
