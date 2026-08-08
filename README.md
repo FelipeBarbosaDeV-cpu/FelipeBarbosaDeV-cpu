@@ -1,21 +1,23 @@
 <div align="center">
 
+
+<div align="center">
+
   <!-- BANNER HEADER COM COR AZUL NEON E ANIMAÇÃO -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=200&section=header&text=FELIPE_BARBOSA_DEV&fontSize=40&fontColor=0D1117&animation=twinkling" width="100%" alt="Header Banner" />
 
   <br />
 
-  <!-- ANIMAÇÃO DE DIGITAÇÃO -->
+  <!-- ANIMAÇÃO DE DIGITAÇÃO EXIBINDO APENAS SEU NOME -->
   <a href="https://github.com/FelipeBarbosaDeV-cpu">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=%3C_SYSTEM_INITIALIZE_%3E;OPERATIVE%3A_FELIPE_BARBOSA_DEV;STACK%3A_C%23_+_JS;STATUS%3A_ONLINE_AND_READY" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=FELIPE_BARBOSA_DEV" alt="Typing Animation" />
   </a>
 
   <br /><br />
 
-  <!-- BADGES DE STATUS COM AS SUAS LINGUAGENS -->
+  <!-- BADGES DE STATUS -->
   <p align="center">
     <img src="https://img.shields.io/badge/JARVIS_CORE-ONLINE-00F0FF?style=for-the-badge&logo=probot&logoColor=000000" alt="JARVIS AI" />
-    <img src="https://img.shields.io/badge/LANGUAGES-C%23_%7C_JS-FF007F?style=for-the-badge&logo=codefactor&logoColor=ffffff" alt="Languages" />
     <img src="https://img.shields.io/badge/SYSTEM-OPERATIONAL-00FF66?style=for-the-badge&logo=cpu&logoColor=000000" alt="Status" />
   </p>
 
