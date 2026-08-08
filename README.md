@@ -22,26 +22,3 @@
   </p>
 
 </div>
-
----
-
-### 📡 // SYSTEM.DIAGNOSTICS (SOBRE MIM)
-```yaml
-perfil_identidade:
-  nome_desenvolvedor: "Felipe Barbosa"
-  usuario_github: "FelipeBarbosaDeV-cpu"
-  formacao: "Estudante do Curso Técnico em Tecnologia da Informação (TI)"
-
----
-#!/bin/bash
-# JARVIS Core Directives - FelipeBarbosaDeV-cpu
-
-$ jarvis --check-goals
-
-[✓] [OK] - Criar automações avançadas e rotinas de dados em Python 
-
-[⚙] [IN_PROGRESS] - Arquitetar sistemas escaláveis e POO com C# / .NET 
-
-[⚙] [IN_PROGRESS] - Otimizar interfaces web modernas com JS, HTML5 e CSS3 
-
-"Expandindo conhecimentos no Técnico em TI e desenvolvendo novos sistemas."
