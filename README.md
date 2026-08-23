@@ -22,13 +22,3 @@
 
 # 💫 About Me:
 Estudante de Curso Técnico em Tecnologia da Informação (TI)<br><br>[✓] [OK] - Criar automações avançadas e rotinas de dados em Python<br>[⚙] [IN_PROGRESS] - Arquitetar sistemas escaláveis e POO com C# / .NET<br>[⚙] [IN_PROGRESS] - Otimizar interfaces web modernas com JS, HTML5 e CSS3<br><br>" Compilando, executando e evoluindo a matriz de código."
-
-
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-
-
----
-[![](https://komarev.com/ghpvc/?username=FelipeBarbosaDeV-cpu&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
