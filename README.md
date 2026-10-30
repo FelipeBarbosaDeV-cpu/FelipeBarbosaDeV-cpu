@@ -9,7 +9,7 @@
 ---
 
 ## 👋 Sobre mim
-Faço **faculdade na FAESA (Sistemas de Informação)** e estou **cursando TI**. Quero atuar na área de tecnologia e estou em busca de uma oportunidade de estágio.
+Faço **faculdade na FAESA (Sistemas de Informação)** e estou **cursando TI**. Quero atuar na área de tecnologia.
 
 ## 🔭 O que estou estudando
 - C# e programação orientada a objetos
