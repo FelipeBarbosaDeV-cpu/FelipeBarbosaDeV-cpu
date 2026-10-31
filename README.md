@@ -8,7 +8,7 @@
 
 ## Sobre mim
 
-Faço o **Curso Técnico de Informática** no **Vasco Coutinho** e, ao mesmo tempo, **Sistemas de Informação na FAESA**. Quero atuar na área de TI e estou em busca de uma oportunidade de estágio.
+Faço o **Curso Técnico de Informática** no **Vasco Coutinho** e, ao mesmo tempo, **Sistemas de Informação na FAESA**. Quero atuar na área de TI e estou em busca de uma oportunidade.
 
 ## Linguagens de Programação
 
