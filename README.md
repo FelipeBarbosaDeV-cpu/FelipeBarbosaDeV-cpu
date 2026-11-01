@@ -50,6 +50,6 @@ Faço o **Curso Técnico de Informática** no **Vasco Coutinho** e, ao mesmo tem
 
 <div align="center">
 
-![Rodapé](https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:3d3d3d,100:000000&height=130&section=footer&text=%20%20G%20&fontSize=24&fontColor=ffffff&fontAlignY=68)
+![Rodapé](https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:3d3d3d,100:000000&height=130&section=footer&text=%20%20%20&fontSize=24&fontColor=ffffff&fontAlignY=68)
 
 </div>
