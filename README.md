@@ -22,7 +22,7 @@ Faço o **Curso Técnico de Informática** no **Vasco Coutinho** e, ao mesmo tem
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=visualstudio,vscode" height="48" alt="Visual Studio e VS Code">&nbsp;<img src="https://img.shields.io/badge/CANVA-00C4CC?style=for-the-badge" height="40" alt="Canva">
+<img src="https://skillicons.dev/icons?i=visualstudio,vscode" height="48" alt="Visual Studio e VS Code">&nbsp;<img src="canva.png" height="48" alt="Canva">&nbsp;<img src="figma.png" height="48" alt="Figma">
 
 </div>
 
@@ -39,14 +39,4 @@ Faço o **Curso Técnico de Informática** no **Vasco Coutinho** e, ao mesmo tem
 <div align="center">
 
 <a href="https://www.linkedin.com/in/felipe-barbosa-a1692942a/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/fililinn/"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-
-</div>
-
-<div align="center">
-
-🏴‍☠️ **Zarpando rumo ao primeiro estágio em TI** 👒
-
-![Rodapé](https://capsule-render.vercel.app/api?type=waving&color=0:f4c430,55:c1121f,100:0b3d91&height=130&section=footer&text=Rumo%20ao%20Grand%20Line&fontSize=24&fontColor=ffffff&fontAlignY=68)
-
-</div>
+<a href="https://www.instagram.com/fililinn/"><img
