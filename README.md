@@ -1,6 +1,6 @@
 <div align="center">
 
-![Cabeçalho](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:3d3d3d,100:ffffff&height=240&section=header&text=Felipe%20Barbosa&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Navegando%20rumo%20ao%20Grand%20Line%20da%20TI&descSize=20&descAlignY=58)
+![Cabeçalho](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:3d3d3d,100:ffffff&height=240&section=header&text=Felipe%20Barbosa&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=ESTUDANTE%20DE%20TI%20%7C%20SISTEMAS%20DE%20INFORMA%C3%87%C3%83O&descSize=20&descAlignY=58)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=FAESA;VASCO+COUTINHO)](https://github.com/FelipeBarbosaDeV-cpu)
 
