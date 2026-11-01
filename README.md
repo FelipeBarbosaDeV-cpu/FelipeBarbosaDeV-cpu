@@ -34,6 +34,15 @@ Faço o **Curso Técnico de Informática** no **Vasco Coutinho** e, ao mesmo tem
 
 </div>
 
+## Contato
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/felipe-barbosa-a1692942a/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/fililinn/"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+
+</div>
+
 <div align="center">
 
 ![Rodapé](https://capsule-render.vercel.app/api?type=waving&color=0:4ca1af,100:0f2027&height=120&section=footer)
