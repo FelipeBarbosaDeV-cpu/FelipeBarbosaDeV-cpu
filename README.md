@@ -1,8 +1,8 @@
 <div align="center">
 
-![Cabeçalho](https://capsule-render.vercel.app/api?type=slice&color=0:0f2027,50:2c5364,100:4ca1af&height=260&section=header&text=Felipe%20Barbosa&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Estudante%20de%20TI%20%7C%20Sistemas%20de%20Informa%C3%A7%C3%A3o&descSize=18&descAlignY=58)
+![Cabeçalho](https://capsule-render.vercel.app/api?type=waving&color=0:0b3d91,45:c1121f,100:f4c430&height=240&section=header&text=Felipe%20Barbosa&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Navegando%20rumo%20ao%20Grand%20Line%20da%20TI&descSize=20&descAlignY=58)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=4CA1AF&center=true&vCenter=true&width=600&lines=FAESA;VASCO+COUTINHO)](https://github.com/FelipeBarbosaDeV-cpu)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=F4C430&center=true&vCenter=true&width=600&lines=FAESA;VASCO+COUTINHO)](https://github.com/FelipeBarbosaDeV-cpu)
 
 </div>
 
@@ -22,7 +22,7 @@ Faço o **Curso Técnico de Informática** no **Vasco Coutinho** e, ao mesmo tem
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=visualstudio,vscode" height="48" alt="Visual Studio e VS Code">&nbsp;<img src="https://cdn.simpleicons.org/canva/00C4CC" height="44" alt="Canva">
+<img src="https://skillicons.dev/icons?i=visualstudio,vscode" height="48" alt="Visual Studio e VS Code">&nbsp;<img src="https://img.shields.io/badge/CANVA-00C4CC?style=for-the-badge" height="40" alt="Canva">
 
 </div>
 
@@ -45,6 +45,8 @@ Faço o **Curso Técnico de Informática** no **Vasco Coutinho** e, ao mesmo tem
 
 <div align="center">
 
-![Rodapé](https://capsule-render.vercel.app/api?type=cylinder&color=0:4ca1af,100:0f2027&height=100&section=footer)
+🏴‍☠️ **Zarpando rumo ao primeiro estágio em TI** 👒
+
+![Rodapé](https://capsule-render.vercel.app/api?type=waving&color=0:f4c430,55:c1121f,100:0b3d91&height=130&section=footer&text=Rumo%20ao%20Grand%20Line&fontSize=24&fontColor=ffffff&fontAlignY=68)
 
 </div>
