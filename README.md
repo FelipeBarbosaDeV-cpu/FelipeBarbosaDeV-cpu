@@ -45,8 +45,8 @@ Faço o **Curso Técnico de Informática** no **Vasco Coutinho** e, ao mesmo tem
 
 <div align="center">
 
-🏴‍☠️ **Zarpando rumo ao primeiro estágio em TI** 👒
 
-![Rodapé](https://capsule-render.vercel.app/api?type=waving&color=0:f4c430,55:c1121f,100:0b3d91&height=130&section=footer&text=Rumo%20ao%20Grand%20Line&fontSize=24&fontColor=ffffff&fontAlignY=68)
+
+![Rodapé](https://capsule-render.vercel.app/api?type=waving&color=0:f4c430,55:c1121f,100:0b3d91&height=130&section=footer&text=%20ao%20%20L&fontSize=24&fontColor=ffffff&fontAlignY=68)
 
 </div>
