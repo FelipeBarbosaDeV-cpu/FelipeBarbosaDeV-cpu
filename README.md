@@ -1,6 +1,6 @@
 <div align="center">
 
-![Cabeçalho](https://capsule-render.vercel.app/api?type=waving&color=0:0b3d91,45:c1121f,100:f4c430&height=240&section=header&text=Felipe%20Barbosa&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Navegando%20rumo%20ao%20Grand%20Line%20da%20TI&descSize=20&descAlignY=58)
+![Cabeçalho](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:3d3d3d,100:ffffff&height=240&section=header&text=Felipe%20Barbosa&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Navegando%20rumo%20ao%20Grand%20Line%20da%20TI&descSize=20&descAlignY=58)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=F4C430&center=true&vCenter=true&width=600&lines=FAESA;VASCO+COUTINHO)](https://github.com/FelipeBarbosaDeV-cpu)
 
@@ -8,7 +8,7 @@
 
 ## Sobre mim:
 
-Faço o **Curso Técnico de Informática** no **Vasco Coutinho** e, ao mesmo tempo, **Sistemas de Informação na FAESA**. Quero atuar na área de TI e estou em busca de uma oportunidade de estágio.
+Faço o **Curso Técnico de Informática** no **Vasco Coutinho** e, ao mesmo tempo, **Sistemas de Informação na FAESA**. Quero atuar na área de TI e estou em busca de uma oportunidade.
 
 ## Linguagens de Programação:
 
@@ -50,8 +50,6 @@ Faço o **Curso Técnico de Informática** no **Vasco Coutinho** e, ao mesmo tem
 
 <div align="center">
 
-
-
-![Rodapé](https://capsule-render.vercel.app/api?type=waving&color=0:f4c430,55:c1121f,100:0b3d91&height=130&section=footer&text=%20%20%20&fontSize=24&fontColor=ffffff&fontAlignY=68)
+![Rodapé](https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:3d3d3d,100:000000&height=130&section=footer&text=%20%20G%20&fontSize=24&fontColor=ffffff&fontAlignY=68)
 
 </div>
